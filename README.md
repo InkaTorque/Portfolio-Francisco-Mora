@@ -9,6 +9,6 @@ An infinite runner (climber) where you control a ninja in his journey to reach t
     - Various bugfixes and gameplay mechanics implementations.
     - Partial rework of power up system.
     - UI programming.
-  -Download Links : 
+  - Download Links : 
     - Android : https://play.google.com/store/apps/details?id=com.leapgs.sliceandrise&hl=es_419
     - iOS : https://itunes.apple.com/us/app/slice-and-rise/id1081067871?mt=8
