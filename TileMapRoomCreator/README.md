@@ -15,14 +15,14 @@ https://youtu.be/D0_kBp3CgrI
 ![alt text][tileMenu]
 
 2. **Controls** :
-  - To START : Press the 'CREATE ROOM' button on the upper section of the TileMap Room Creator Window.
-  - Select A Tab To View Available Tiles.
-  - Selecting a Tile creates a Gizmo that follows the cursor on Scene View.
-  - To position a Tile on the Room . With the gizmo active , **Left Click** on the desired position inside the Room.
-  - **ESC** : Cancels tile selection.
-  - **LEFT CONTROL** : Holding down this key activates the erraser tool. While holding down this key , if Left Click is pressed over an existing tile , it will be removed.
-  - **WARNING** : Only ONE tile of each Layer can exist on the same space inside the room.
-  - Tiles can be flipped horizontally and vertically as well as rotated 90 degrees clockwise and counter-clockwise.
+    - To START : Press the 'CREATE ROOM' button on the upper section of the TileMap Room Creator Window.
+    - Select A Tab To View Available Tiles.
+    - Selecting a Tile creates a Gizmo that follows the cursor on Scene View.
+    - To position a Tile on the Room . With the gizmo active , **Left Click** on the desired position inside the Room.
+    - **ESC** : Cancels tile selection.
+    - **LEFT CONTROL** : Holding down this key activates the erraser tool. While holding down this key , if Left Click is pressed over an existing tile , it will be removed.
+    - **WARNING** : Only ONE tile of each Layer can exist on the same space inside the room.
+    - Tiles can be flipped horizontally and vertically as well as rotated 90 degrees clockwise and counter-clockwise.
 
 ![alt text][tileExample]
 
