@@ -3,6 +3,8 @@ This is the technical portfolio repository property of Francisco Antonio Mora Ar
 
 ## PUBLISHED GAMES
 ### Slice and Rise (Android and iOS) : 
+![GitHub Logo](/Images/SnR.png)
+
 An infinite runner (climber) where you control a ninja in his journey to reach te top of the mistic tower.
   - Responsabilities : 
     - In-game achievement system .
