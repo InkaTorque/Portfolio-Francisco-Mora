@@ -1,6 +1,9 @@
 # Palette Swap Shader Showcase
 ![alt text][pixelSwap]
 
+
+## VIDEO DEMONSTRATION
+
 ## WHAT'S INSIDE?
   - **PaletteSwapShader-Executable** : A windows executable of the showcase project . You will not be able to change any palette . This is for showcase purpouses only
   - **PaletteSwapShader-UnityProject** : A Unity Project (2017.3.0.p3) with the source code and the shader that make the palette swap functionality possible . In here you can create your own custom palettes by following the tutorial below.
@@ -29,11 +32,9 @@
 
 5. **Changing the Swap Tolerance Threshold** : The swap threshold by default will have a value of 0 . This means that  , by defalut , no colors will be swaped . In order to let the shader know that you want to swap the colors , the value of the threshold has to be different than 0 . You can change this value using a slider inside the material proerties in the inspector section . The greater the threshold value , the easier similar colors to the ones indicated in the original color row of the palette swap texture will we swapped.
 
-![alt text][threshold]
+![alt text][threshold]    
 
-## VIDEO DEMONSTRATION
-    
-    
+## HAND PAINTED SWAPPED
 ![alt text][handSwap]
 
 [pixelSwap]: /Images/PaletteSwapPixel.gif
