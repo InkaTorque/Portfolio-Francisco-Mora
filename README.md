@@ -3,11 +3,11 @@ This is the technical portfolio repository property of Francisco Antonio Mora Ar
 
 ## WHATS INSIDE?
   - [Tunche's Combat Manager](Tunche's%20Combat%20Manager/README.md) : Showcases a Debug View of the Tunche Combat manager inspired by God of War and Marvel's Spider-Man GDC Talks about combat and AI systems.
-  - **Tunche's Fight Sequence Creator** : Showcases a tool created for the design team so that they can create multiple fight sequences with ease.
-  - **Tunche's Fight Sequence Simualtor** : Showcases a tool created for the design team so that they can test the fight sequences created by the Creator tool.
-  - **Arrog's Post-Processing Effect** : Showcases the custom post process effects used to give Arrog its unique look.
-  - **Palette Swap Shader** : Showcases a palette swap tool . Given a a texture of 2 pixels high , containing the original color palette on the bottom row and the new palette on the top row , the shader swaps all the colors found on the original palette with the new colors indicated by the artists. This shader works on both pixel art and non pixel art sprites.
-  - **TileMap Room Creator** : Showcases a room creation tool where designers select objects to inset into a room by selecting them from a tile selection window and then indicating the point of insertion by clicking on a section of the room . This tool works with grid-like rooms . 
+  - [Tunche's Fight Sequence Creator](Tunche's%20Fight%20Sequence%20Creator/README.md) : Showcases a tool created for the design team so that they can create multiple fight sequences with ease.
+  - [Tunche's Fight Sequence Simualtor](Tunche's%20Fight%20Sequence%20Simualtor/README.md) : Showcases a tool created for the design team so that they can test the fight sequences created by the Creator tool.
+  - [Arrog's Post-Processing Effect](Arrog's%20Post-Processing%20Effect/README.md) : Showcases the custom post process effects used to give Arrog its unique look.
+  - [Palette Swap Shader](Palette-Swap-Shader/README.md) : Showcases a palette swap tool . Given a a texture of 2 pixels high , containing the original color palette on the bottom row and the new palette on the top row , the shader swaps all the colors found on the original palette with the new colors indicated by the artists. This shader works on both pixel art and non pixel art sprites.
+  - [TileMap Room Creator](TileMapRoomCreator/README.md) : Showcases a room creation tool where designers select objects to inset into a room by selecting them from a tile selection window and then indicating the point of insertion by clicking on a section of the room . This tool works with grid-like rooms . 
   - **List of Published Games** : Below you will find a list of published games that I worked on.
 
 ## PUBLISHED GAMES
