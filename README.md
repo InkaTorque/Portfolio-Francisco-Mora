@@ -8,7 +8,7 @@ This is the technical portfolio repository property of Francisco Antonio Mora Ar
 
 ## PUBLISHED GAMES
 ### Tunche (Unity) (PS4, Xbox One, Nintendo Switch, PC (Steam/EGS)) : 
-![SnR Logo](/Images/TuncheBanner.png)
+![Tunche Logo](/Images/TuncheBanner.png)
 
 A 4 player co-op, 2.5D beat them up with roguelike elements where each frame of animation has been drawn by hand. In this game you will venture into the Amazonian rainforest in order to find Tunche and restore peace to the Amazon.
   - **Role** : 
@@ -32,7 +32,7 @@ A 4 player co-op, 2.5D beat them up with roguelike elements where each frame of 
     - Xbox Store: https://www.xbox.com/es-mx/games/store/Tunche/9N355W8C68TG
 
 ### Arrog (Unity) (Android, iOS, PS4, Nintendo Switch, PC (Steam)) : 
-![SnR Logo](/Images/arrog.png)
+![Arrog Logo](/Images/arrog.jpg)
 
 Arrog is an enigmatic puzzle adventure game featuring hand-drawn art and set in a black-and-white world with color accents.
   - **Role** : 
