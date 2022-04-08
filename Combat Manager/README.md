@@ -1,5 +1,5 @@
 # Tunche's Combat Manager [CODE NOT PROVIDED]
-![ArrogNoEffect](/Images/hivemid.gif)
+![ArrogNoEffect](/Images/Hivemid.gif)
 
 
 ## VIDEO DEMONSTRATION
