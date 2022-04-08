@@ -7,6 +7,36 @@ This is the technical portfolio repository property of Francisco Antonio Mora Ar
   - **List of Published Games** : Below you will find a list of published games that I worked on.
 
 ## PUBLISHED GAMES
+### Tunche (PS4, Xbox One, Nintendo Switch, PC (Steam/EGS)) : 
+![SnR Logo](/Images/TuncheBanner.png)
+
+An infinite runner (climber) where you control a ninja in his journey to reach te top of the mistic tower.
+  - **Responsabilities** : 
+    - In-game achievement system .
+    - Various bugfixes and gameplay mechanics implementations.
+    - Partial rework of power up system.
+    - UI programming.
+  - **Trailer** : 
+    - https://www.youtube.com/watch?v=REYbd7xccrQ
+  - **Download Links** : 
+    - Android : https://play.google.com/store/apps/details?id=com.leapgs.sliceandrise&hl=es_419
+    - iOS : https://itunes.apple.com/us/app/slice-and-rise/id1081067871?mt=8
+
+### Slice and Rise (Android and iOS) : 
+![SnR Logo](/Images/SnR.png)
+
+An infinite runner (climber) where you control a ninja in his journey to reach te top of the mistic tower.
+  - **Responsabilities** : 
+    - In-game achievement system .
+    - Various bugfixes and gameplay mechanics implementations.
+    - Partial rework of power up system.
+    - UI programming.
+  - **Trailer** : 
+    - https://www.youtube.com/watch?v=REYbd7xccrQ
+  - **Download Links** : 
+    - Android : https://play.google.com/store/apps/details?id=com.leapgs.sliceandrise&hl=es_419
+    - iOS : https://itunes.apple.com/us/app/slice-and-rise/id1081067871?mt=8
+
 ### Slice and Rise (Android and iOS) : 
 ![SnR Logo](/Images/SnR.png)
 
