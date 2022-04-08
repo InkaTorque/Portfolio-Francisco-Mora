@@ -7,18 +7,14 @@
 ![ArrogEffect](/Images/ArrogEffect.gif)
 
 ## HOW DOES IT WORK?
-1. **The swap texture** : You will need to create a palette swap texture . The measures of the texture havve to be 2 pixels height by n pixels lenght (n being the number of colors you want to swap) . The botom row must contain the original colors , and the top row must contain the new colors that will replace the original colors positioned directly underneath them.
+1. This effect is achieved by combining the stock Unity Post-Processing effects and a custom post processing effect called Black and White flipbook.
 
-2. **Setting up the swap texture in Unity** : The texture should be importe with the following settings :
-    - Read/Write Enabled : True.
-    - Filter Mode : Point (No Filter).
+2. This custom post processing effect analyzes the completed rendered image and applies a different flipbook texture to both the white and black parts of the screen. The animated paper effect is achieved by overlaying each frame of the animated texture into the rendered image and changing the frame being displayed via a flipbook animation logic inside the post processing shader. 
 
-3. **Generating the Palette Swap Asset** : To generate the palette swap asset , right click the swap texture and select the option Create/Color Palette. This assets is fully editable once generated , so you can make as many tweaks as you want without having to generate another Palette Swap Texture.
+3. If there are objects that the art director doesn't want to get affected by the post processing effect, they should be marked as such by adding them to a temporal render texture that will get used later.
 
-4. **Applying the Color Palette to the GameObject** : The GameObject should have the following components in order for the shader to work.
-    - Sprite Renderer : The sprite renderer should use the following material >> **PaletteSwapMaterial**
-    - Palette Swapper : This is the component that sends the palette swap data to the shader in order to replace the colors on the gameObject.
-  In order to assign a palette swap , go to the Palette Swapper component in the inspector of the gameObject you want to swap colors and in the *Current Palette* property select the palette swap asset you want to be applied on the gameobject.
-  To have a preview of the palette swap in Editor Mode , select the *Apply Palette* button.
+4. After applying the flipbook texture, the custom effect replaces the pixels corresponding to the objects on screen that should not get affected by the effect with the original pixels grabbed by the original render texture.
 
-5. **Changing the Swap Tolerance Threshold** : The swap threshold by default will have a value of 0 . This means that  , by defalut , no colors will be swaped . In order to let the shader know that you want to swap the colors , the value of the threshold has to be different than 0 . You can change this value using a slider inside the material proerties in the inspector section . The greater the threshold value , the easier similar colors to the ones indicated in the original color row of the palette swap texture will we swapped.
+5. This produces an effect where only certain parts of the screen have such texture without having to animate the texture manually in each object or hand painting the texture frame by frame.
+
+6. Stock Unity effects like Chromatic Aberration and Bloom get applied on top of the resulting image of the Black and White flipbook post processing effect.
