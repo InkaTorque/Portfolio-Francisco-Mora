@@ -2,7 +2,7 @@
 This is the technical portfolio repository property of Francisco Antonio Mora Arámbulo . In here you will find various showcases of thecnical tools and achievements accomplished by me during my video game development carreer.
 
 ## WHATS INSIDE?
-  - **Tunche's Combat Manager** : Showcases a Debug View of the Tunche Combat manager inspired by God of War and Marvel's Spider-Man GDC Talks about combat and AI systems.
+  - [**Tunche's Combat Manager**]("Tunche's Combat Manager/README.md") : Showcases a Debug View of the Tunche Combat manager inspired by God of War and Marvel's Spider-Man GDC Talks about combat and AI systems.
   - **Tunche's Fight Sequence Creator** : Showcases a tool created for the design team so that they can create multiple fight sequences with ease.
   - **Tunche's Fight Sequence Simualtor** : Showcases a tool created for the design team so that they can test the fight sequences created by the Creator tool.
   - **Arrog's Post-Processing Effect** : Showcases the custom post process effects used to give Arrog its unique look.
