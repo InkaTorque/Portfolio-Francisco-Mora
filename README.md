@@ -56,7 +56,7 @@ Arrog is an enigmatic puzzle adventure game featuring hand-drawn art and set in 
     - Android : https://play.google.com/store/apps/details?id=com.leapgs.arrog&hl=en&gl=USarr
     - iOS : https://apps.apple.com/us/app/arrog/id1499642327 
 
-### Where's Tess (Unity) (LIVE CONTENT UPDATES) (Android (released),iOS (soon)) : 
+### Where's Tess (Unity) (LIVE CONTENT UPDATES) (Android (Released),iOS (Soon)) : 
 ![Tess Logo](/Images/Tess.jpg)
 
 Where's Tess is a charming and relaxing otome visual novel where you take control of a latina influencer trying to make a name for herself in the competitive world of the Asian influencer scene.
