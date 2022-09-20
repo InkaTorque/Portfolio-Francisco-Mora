@@ -54,7 +54,22 @@ Arrog is an enigmatic puzzle adventure game featuring hand-drawn art and set in 
     - PS Store : https://store.playstation.com/en-us/concept/10002016
     - Nintendo e-shop : https://www.nintendo.com/store/products/arrog-switch/
     - Android : https://play.google.com/store/apps/details?id=com.leapgs.arrog&hl=en&gl=USarr
-    - iOS : https://apps.apple.com/us/app/arrog/id1499642327   
+    - iOS : https://apps.apple.com/us/app/arrog/id1499642327 
+
+### Where's Tess (Unity) (LIVE CONTENT UPDATES) (Android (released),iOS (soon)) : 
+![Tess Logo](/Images/Tess.jpg)
+
+Where's Tess is a charming and relaxing otome visual novel where you take control of a latina influencer trying to make a name for herself in the competitive world of the Asian influencer scene.
+  - **Role** : 
+    - Lead Programmer
+  - **Responsabilities** :
+    - Organized and Planned the project's asset structure to support live and regular content updates using the Unity Addressable System.
+    - Integrated Firebase's Crashlytics and Authentication modules to allow sign in with Google Play, Apple ID and Email.
+    - Used Google Cloud Platform Storage to deliver new and updated content packages.
+    - Worked on build pipeline tools with Discord and NodeJS.
+    - Worked on user managment tools using Firebase's Auth API.
+  - **Download Links** : 
+    - Android : https://play.google.com/store/apps/details?id=com.leapgs.tess&hl=en&gl=US
 
 ### Slice and Rise (Unity) (Android and iOS) : 
 ![SnR Logo](/Images/SnR.png)
